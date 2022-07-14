@@ -292,7 +292,7 @@ function checkKey(e) {
 }
 
 // Prevent F5 Or Change Redirect
-window.addEventListener('beforeunload', (event) => {
-    event.preventDefault();
-    event.returnValue = 'hello';
-});
+// window.addEventListener('beforeunload', (event) => {
+//     event.preventDefault();
+//     event.returnValue = 'hello';
+// });
