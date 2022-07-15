@@ -36,6 +36,12 @@ const allMusic = [
         src: './music_list/tinhdangnhucafe.mp3'
     },
     {
+        name: 'Bên trên tầng lầu',
+        author: 'Tăng Duy Tân',
+        img: 'assets/image/song_img/bentrentanglau.jpg',
+        src: './music_list/bentrentanglau.mp3'
+    },
+    {
         name: 'Thói quen',
         author: 'Hoàng Dũng',
         img: 'assets/image/song_img/thoiquen.jpg',
