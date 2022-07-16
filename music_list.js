@@ -48,10 +48,10 @@ const allMusic = [
         src: './music_list/thoiquen.mp3'
     },
     {
-        name: 'Phải giữ em thế nào',
-        author: 'Mr siro',
-        img: 'assets/image/song_img/phaigiuemthenao.jpg',
-        src: './music_list/phaigiuemthenao.mp3'
+        name: 'Qerry',
+        author: 'Tri',
+        img: 'assets/image/song_img/querry.jpg',
+        src: './music_list/new/querry.mp3'
     },
     {
         name: 'Người khác',
@@ -60,10 +60,10 @@ const allMusic = [
         src: './music_list/nguoikhac.mp3'
     },
     {
-        name: 'Một bước yêu vạn dặm đau',
-        author: 'Mr siro',
-        img: 'assets/image/song_img/motbuocyeu.jpg',
-        src: './music_list/motbuocyeu.mp3'
+        name: 'Sài Gòn hôm nay mưa',
+        author: 'Hoàng QUyên',
+        img: 'assets/image/song_img/saigonmua.jpg',
+        src: './music_list/new/saigonngaymua.mp3'
     },
     {
         name: 'In the Dark',
@@ -72,16 +72,16 @@ const allMusic = [
         src: './music_list/doahoaluitan.mp3'
     },
     {
-        name: 'Day dứt nỗi đau',
-        author: 'Mr siro',
-        img: 'assets/image/song_img/đayutnoidau.jpg',
-        src: './music_list/daydutnoidau.mp3'
+        name: 'Lối nhỏ',
+        author: 'Đen vâu',
+        img: 'assets/image/song_img/smallway.jpg',
+        src: './music_list/new/smallway.mp3'
     },
     {
-        name: 'Chuyện đôi ta',
-        author: 'Da lab',
-        img: 'assets/image/song_img/chuyendoita.jpg',
-        src: './music_list/chuyendoita.mp3'
+        name: 'Một triệu like',
+        author: 'Đen vâu',
+        img: 'assets/image/song_img/1millionlike.jpg',
+        src: './music_list/new/1millionlike.mp3'
     },
     {
         name: 'Chúng ta của sau này',
@@ -102,10 +102,10 @@ const allMusic = [
         src: './music_list/chieuhomay.mp3'
     },
     {
-        name: 'Chạm đáy nỗi đau',
-        author: 'Mr siro cover',
-        img: 'assets/image/song_img/chamdaynoidau.jpg',
-        src: './music_list/chamdaynoidau.mp3'
+        name: 'Cảm ơn',
+        author: 'Đen vâu',
+        img: 'assets/image/song_img/thanks.jpg',
+        src: './music_list/new/camon.mp3'
     },
     {
         name: 'Bước qua nhau',
@@ -131,6 +131,41 @@ const allMusic = [
         img: 'assets/image/song_img/lovemelikethat.jpg',
         src: './music_list/lovemelikethat.mp3'
     },
-    
+    {
+        name: 'Muộn rồi mà sao còn',
+        author: 'Sơn Tùng MTP',
+        img: 'assets/image/song_img/muonroimasaocon.jpg',
+        src: './music_list/new/muonroimasaocon.mp3'
+    },   
+    {
+        name: 'Anh đếch cần gì nhiều ngoài em',
+        author: 'Đen vâu',
+        img: 'assets/image/song_img/smallway.jpg',
+        src: './music_list/new/anhdechcan.mp3'
+    },  
+    {
+        name: 'Đố em biết anh đang nghĩ gì',
+        author: 'Đen vâu',
+        img: 'assets/image/song_img/smallway.jpg',
+        src: './music_list/new/doembiet.mp3'
+    },  
+    {
+        name: 'Thanh xuân',
+        author: 'Da lab',
+        img: 'assets/image/song_img/Bonghoa.jpg',
+        src: './music_list/new/thanhxuan.mp3'
+    },  
+    {
+        name: 'Yêu làm chi',
+        author: 'Fay x CM1X',
+        img: 'assets/image/song_img/yeulamchi.jpg',
+        src: './music_list/new/yeulamchi.mp3'
+    },  
+    {
+        name: 'Bình thường',
+        author: 'someone in Internet',
+        img: 'assets/image/song_img/Bonghoa.jpg',
+        src: './music_list/new/binhthuong.mp3'
+    },  
 ]
 
