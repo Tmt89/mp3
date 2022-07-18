@@ -24,6 +24,12 @@ const allMusic = [
         src: './music_list/vayhoanhi.mp3'
     },
     {
+        name: 'Chuyện đôi ta',
+        author: 'Da lab',
+        img: 'assets/image/song_img/chuyendoita.jpg',
+        src: './music_list/chuyendoita.mp3'
+    },
+    {
         name: 'Ánh sao và bầu trời',
         author: 'Tri',
         img: 'assets/image/song_img/AnhSao.jpg',
