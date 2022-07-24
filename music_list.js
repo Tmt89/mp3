@@ -48,6 +48,12 @@ const allMusic = [
         src: './music_list/bentrentanglau.mp3'
     },
     {
+        name: 'Mai về',
+        author: 'Dfoxie37 x Myhai',
+        img: 'assets/image/song_img/maive.jpg',
+        src: './music_list/maive.mp3'
+    },
+    {
         name: 'Thói quen',
         author: 'Hoàng Dũng',
         img: 'assets/image/song_img/thoiquen.jpg',

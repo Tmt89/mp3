@@ -123,6 +123,7 @@ playBtn.addEventListener('click', ()=>{
     if (!isMusicPause) {
         playMusic()
     }
+    console.log()
 })
 pauseBtn.addEventListener('click', ()=>{
     const isMusicPlay = playBtn.classList.contains('active')
@@ -270,6 +271,7 @@ function scrollActiveSongToView() {
 // Shortcut Key On PC
 document.onkeydown = checkKey;
 function checkKey(e) {
+    console.log(e)
     e = e || window.event;
     switch(e.which) {
         case 32:
@@ -296,3 +298,4 @@ function checkKey(e) {
 //     event.preventDefault();
 //     event.returnValue = 'hello';
 // });
+
