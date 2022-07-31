@@ -42,6 +42,12 @@ const allMusic = [
         src: './music_list/tinhdangnhucafe.mp3'
     },
     {
+        name: 'Ngã tư không đèn',
+        author: 'Trang',
+        img: 'assets/image/song_img/ngatukhongden.jpg',
+        src: './music_list/ngatukhongden.mp3'
+    },
+    {
         name: 'Bên trên tầng lầu',
         author: 'Tăng Duy Tân',
         img: 'assets/image/song_img/bentrentanglau.jpg',
